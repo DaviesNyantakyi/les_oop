@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("less_oop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da0d8d39746a3f42841cc89c600b85222008a753")]
 [assembly: System.Reflection.AssemblyProductAttribute("less_oop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("less_oop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

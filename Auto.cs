@@ -6,10 +6,10 @@ namespace auto
     public class Auto
     {
         public string merk = "Tesla model S";
-        public string kleur= "Wit";
+        public string kleur = "Wit";
         public int aantalDeuren = 4;
         public int maxSnelheid = 200;
-        public int pk  = 100;
+        public int pk = 100;
 
         public Auto(string merk, string kleur, int aantalDeuren, int maxSnelheid)
         {
@@ -26,7 +26,7 @@ namespace auto
 
         }
 
-        public Auto(int aantalDeuren, int maxSnelheid )
+        public Auto(int aantalDeuren, int maxSnelheid)
         {
             this.aantalDeuren = aantalDeuren;
             this.maxSnelheid = maxSnelheid;

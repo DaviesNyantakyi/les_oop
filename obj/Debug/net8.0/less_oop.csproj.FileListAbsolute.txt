@@ -12,3 +12,4 @@ C:\Users\davie\Desktop\School\Programmeren_met_csharp\less_oop\obj\Debug\net8.0\
 C:\Users\davie\Desktop\School\Programmeren_met_csharp\less_oop\obj\Debug\net8.0\less_oop.pdb
 C:\Users\davie\Desktop\School\Programmeren_met_csharp\less_oop\obj\Debug\net8.0\less_oop.genruntimeconfig.cache
 C:\Users\davie\Desktop\School\Programmeren_met_csharp\less_oop\obj\Debug\net8.0\ref\less_oop.dll
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\less_oop\obj\Debug\net8.0\less_oop.sourcelink.json
